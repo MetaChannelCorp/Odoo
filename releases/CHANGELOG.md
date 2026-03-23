@@ -8,7 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- ...
+- Examples of configuration files (`.env`, `odoo.conf`).
+
+- Docker files (`.dockerignore`, `docker-compose.yaml`).
+
+- Nginx configuration file + Dockerfile.
 
 ### Changed
 

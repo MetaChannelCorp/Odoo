@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- Initial files.
+- ...
 
 ### Changed
 
@@ -30,4 +30,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - ...
 
-[unreleased]: https://github.com/FJrodafo/MetaCRM/compare/0.0.0...HEAD
+## [0.0.1] - 2026-03-23
+
+### Added
+
+- Initial files.
+
+[unreleased]: https://github.com/FJrodafo/MetaCRM/compare/0.0.1...HEAD
+[0.0.1]: https://github.com/FJrodafo/MetaCRM/releases/tag/0.0.1

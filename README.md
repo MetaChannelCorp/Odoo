@@ -73,7 +73,7 @@ docker compose up -d --build
 
 > [!NOTE]
 > 
-> Odoo: http://crm.metachannelcorp.com
+> Odoo: [http://crm.metachannelcorp.com](http://crm.metachannelcorp.com)
 
 ### Stop
 

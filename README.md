@@ -68,7 +68,7 @@ To access Odoo with a custom local domain, add the following line to your `/etc/
 ### Start
 
 ```shell
-docker compose up -d
+docker compose up -d --build
 ```
 
 > [!NOTE]

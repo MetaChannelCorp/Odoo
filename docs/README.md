@@ -1,4 +1,6 @@
-# META Channel Corporation - Customer Relationship Management
+# MetaCRM
+
+META Channel Corporation - Customer Relationship Management
 
 [![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/MetaCRM?style=social&logo=github&logoColor=000000&label=Stars&labelColor=ffffff&color=ffffff)](https://github.com/FJrodafo/MetaCRM/stargazers)
 

@@ -22,11 +22,8 @@ META Channel Corporation - Customer Relationship Management
 
 A simple Docker Compose setup for Odoo!
 
-<details>
-<summary>Project structure</summary>
-
 ```
-App/
+/
 ├── nginx/
 │   ├── conf.d/
 │   │   └── default.config
@@ -35,7 +32,6 @@ App/
 ├── docker-compose.yaml
 └── odoo.conf
 ```
-</details>
 
 ## Setup
 

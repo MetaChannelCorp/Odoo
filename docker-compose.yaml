@@ -1,9 +1,3 @@
-# This script is available on GitHub Gist at https://gist.github.com/FJrodafo/35d517872cb5730c373c07352ff2b7eb
-# Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
-
-# META Channel Corporation - Customer Relationship Management
-# http://crm.metachannelcorp.com/
-
 services:
   # Postgres
   db:

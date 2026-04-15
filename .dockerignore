@@ -1,13 +1,24 @@
 # Git
-/.git
-.gitattributes
-.gitignore
+/.git/
+/.gitattributes
+/.gitignore
 
 # GitHub
-/.github
+/.github/
 
 # VSCode
-/.vscode
+/.vscode/
 
-# Releases
-/releases
+# Documents
+/docs/
+
+# Secrets
+/odoo/odoo.conf
+/odoo/odoo.conf.*
+/.env
+/.env.*
+
+# Docker
+/nginx/Dockerfile
+/.dockerignore
+/docker-compose.yaml

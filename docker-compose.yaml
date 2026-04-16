@@ -1,7 +1,7 @@
 services:
   # PostgreSQL
   db:
-    image: postgres:18
+    image: postgres:17
     container_name: meta_od_db
     environment:
       POSTGRES_DB: ${POSTGRES_DB}

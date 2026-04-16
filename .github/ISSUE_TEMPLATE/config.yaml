@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security advisories
-    url: https://github.com/FJrodafo/MetaCRM/security/advisories
+    url: https://github.com/MetaChannelCorp/Odoo/security/advisories
     about: Please report security vulnerabilities here.

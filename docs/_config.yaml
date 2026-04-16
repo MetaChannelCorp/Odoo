@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Odoo
+description: A simple Docker setup for Odoo!
+show_downloads: true

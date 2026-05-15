@@ -139,23 +139,3 @@ Stop the Container:
 ```shell
 docker compose down
 ```
-
-### Build & Push (Ignore this subsection)
-
-```shell
-docker build \
-  -t ghcr.io/metachannelcorp/meta-od-nginx:1 \
-  -t ghcr.io/metachannelcorp/meta-od-nginx:1.0 \
-  -t ghcr.io/metachannelcorp/meta-od-nginx:1.0.0 \
-  -t ghcr.io/metachannelcorp/meta-od-nginx:latest \
-  -t fjrodafo/meta-od-nginx:1.0.0 \
-  -t fjrodafo/meta-od-nginx:latest \
-  ./nginx
-
-docker push ghcr.io/metachannelcorp/meta-od-nginx:1
-docker push ghcr.io/metachannelcorp/meta-od-nginx:1.0
-docker push ghcr.io/metachannelcorp/meta-od-nginx:1.0.0
-docker push ghcr.io/metachannelcorp/meta-od-nginx:latest
-docker push fjrodafo/meta-od-nginx:1.0.0
-docker push fjrodafo/meta-od-nginx:latest
-```

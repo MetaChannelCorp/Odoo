@@ -47,5 +47,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - `odoo.conf.example` as a reference template for the Odoo configuration file.
 - `restart: unless-stopped` policy on all services.
 
-[unreleased]: https://github.com/MetaChannelCorp/Odoo/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/MetaChannelCorp/Odoo/compare/1.0.0...HEAD
 [1.0.0]: https://github.com/MetaChannelCorp/Odoo/releases/tag/1.0.0
